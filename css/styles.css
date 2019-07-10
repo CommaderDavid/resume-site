@@ -42,3 +42,13 @@ h2 {
 .experience {
   margin: 1% 0 1% 13%;
 }
+
+.qualification {
+  list-style-position: inside;
+  margin: 1% 0 1% 8%;
+}
+
+.skill {
+  list-style-position: inside;
+  margin: 1% 0 1% 8%;
+}
